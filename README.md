@@ -17,7 +17,6 @@ It reflects my journey as a **Full Stack Software Developer** and highlights wha
 - [Project Structure](#project-structure)  
 - [Contributing](#contributing)  
 - [Contact](#contact)  
-- [License](#license)
 
 ---
 
@@ -63,7 +62,7 @@ The goal of this website is to provide an interactive and visually appealing way
 ---
 
 ## Project Structure
-
+```plaintext
 personal-website/
 ├─ public/               # Static assets (images, icons, etc.)
 ├─ src/                  # Source files (HTML, CSS, JS)
@@ -73,7 +72,7 @@ personal-website/
 ├─ package.json          # (If using Node.js)
 ├─ tailwind.config.js    # (If using Tailwind CSS)
 └─ README.md             # This file
-
+```
  ---
 
 ## Contributing
