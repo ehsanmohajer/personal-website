@@ -10,10 +10,6 @@ It reflects my journey as a **Full Stack Software Developer** and highlights wha
 - [Overview](#overview)  
 - [Features](#features)  
 - [Technologies Used](#technologies-used)  
-- [Getting Started](#getting-started)  
-  - [Prerequisites](#prerequisites)  
-  - [Installation](#installation)  
-  - [Running Locally](#running-locally)  
 - [Project Structure](#project-structure)  
 - [Contributing](#contributing)  
 - [Contact](#contact)  
@@ -64,14 +60,13 @@ The goal of this website is to provide an interactive and visually appealing way
 ## Project Structure
 ```plaintext
 personal-website/
-├─ public/               # Static assets (images, icons, etc.)
-├─ src/                  # Source files (HTML, CSS, JS)
-│  ├─ index.html
-│  ├─ styles.css
-│  └─ script.js
-├─ package.json          # (If using Node.js)
-├─ tailwind.config.js    # (If using Tailwind CSS)
-└─ README.md             # This file
+
+├─ assets/            # Source files (HTML, CSS, JS)
+│  ├─images
+│  ├─css > styles.css
+│  └─js > script.js
+├─ index.html          
+└─ README.md
 ```
  ---
 
